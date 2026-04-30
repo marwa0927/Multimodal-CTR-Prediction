@@ -1,8 +1,7 @@
 # Multimodal CTR Prediction — WWW 2025 EReL@MIR Challenge
 
-**Leaderboard AUC: 0.9489** 
 
-WWW 2025 EReL@MIR Workshop MM-CTR Challenge — Task 1 & 2 (Cascaded).
+WWW 2025 EReL@MIR Workshop MM-CTR Challenge.
 
 ---
 
@@ -61,7 +60,7 @@ Inspired by the 1st place solution (arxiv: 2505.03543), with the following archi
 | Max epochs | 40 |
 | Early stopping | patience=8 |
 | Grad clip | 0.5 |
-| Hardware | 2× Tesla T4 (Kaggle) |
+| Hardware | 2× Tesla T4 |
 
 ---
 
